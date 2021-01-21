@@ -1,0 +1,26 @@
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.exe
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.deps.json
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.runtimeconfig.json
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.runtimeconfig.dev.json
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.dll
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.pdb
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.csprojAssemblyReference.cache
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.AssemblyInfoInputs.cache
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.AssemblyInfo.cs
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.csproj.CoreCompileInputs.cache
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.dll
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.pdb
+C:\Users\oilha\Downloads\Empresa\EMPRESA MII SOLUCOES\FUNCIONARIOS\Teste\Correcoes\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.genruntimeconfig.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.exe
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.deps.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.runtimeconfig.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.runtimeconfig.dev.json
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\bin\Debug\netcoreapp3.1\Correcoes.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.csprojAssemblyReference.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.AssemblyInfoInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.AssemblyInfo.cs
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.csproj.CoreCompileInputs.cache
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.dll
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.pdb
+C:\Users\rhjm2\OneDrive\Área de Trabalho\Para exercicios de C#\Correcoes\ParaCorrigir\Correcoes\obj\Debug\netcoreapp3.1\Correcoes.genruntimeconfig.cache
